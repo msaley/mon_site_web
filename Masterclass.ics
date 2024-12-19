@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Votre Nom ou Entreprise//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:contact@investisseur-rentier.fr
+DTSTAMP:20241120T120000Z
+DTSTART:20241208T190000Z
+DTEND:20241208T210000Z
+SUMMARY:MasterClass sur [Investir en Bourse en ISALAM]
+DESCRIPTION:Rejoignez-nous pour découvrir Comment investir. Connectez-vous via [https://event.webinarjam.com/go/live/126/9ploliokuwsqs7]
+LOCATION:En ligne - [https://event.webinarjam.com/go/live/126/9ploliokuwsqs7]
+END:VEVENT
+END:VCALENDAR
